@@ -17,6 +17,8 @@
 *.fdb_latexmk
 *.pdf
 *.zip
+*.tex
+images/
 
 # VS Code and editor configs
 .vscode/
