@@ -1,0 +1,29 @@
+# Binaries and executables
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+
+# LaTeX and temporary build files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.pdf
+*.zip
+
+# VS Code and editor configs
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# OS specific files
+Thumbs.db
+[Dd]esktop.ini
